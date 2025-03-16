@@ -1,4 +1,4 @@
-![MasterHead](https://d5gp1bgprhhde.cloudfront.net/wp-content/uploads/2023/01/react.png)
+
 
 <h1 align="center">Hi 👋, I'm Murtuzov Huseyn</h1>
 <h3 align="center">A passionate web developer</h3>
