@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Murtuzov Huseyn</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A strong junior web developer</h3>
 
 - 🔭 I’m currently working on [academystudents](https://github.com/MirtizDev/academystudentsnext)
 
