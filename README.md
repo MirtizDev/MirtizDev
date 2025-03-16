@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [academystudents](https://github.com/MirtizDev/academystudentsnext)
 
-- 💬 Ask me about **react,next**
+- 💬 Ask me about **react,.net**
 
 - 📫 How to reach me **huseynmurtuzov@gmail.com**
 
